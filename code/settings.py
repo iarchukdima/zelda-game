@@ -1,4 +1,4 @@
-## everythig about the map
+## everythig about the maps form
 WIDTH    = 1280 
 HEIGTH   = 720
 FPS      = 60
