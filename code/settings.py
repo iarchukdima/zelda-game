@@ -1,3 +1,4 @@
+## everythig about the map
 WIDTH    = 1280 
 HEIGTH   = 720
 FPS      = 60
