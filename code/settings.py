@@ -1,4 +1,4 @@
-## everythig about the maps form
+## everythig about the map settings
 WIDTH    = 1280 
 HEIGTH   = 720
 FPS      = 60
